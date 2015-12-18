@@ -1,0 +1,2 @@
+#!/bin/bash
+exec sv stop 001-cron
